@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "198672040156",
+    "project_id": "stylelet-30bd9",
+    "storage_bucket": "stylelet-30bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198672040156:android:30485b212966cc9af93419",
+        "android_client_info": {
+          "package_name": "com.nasrin.stylelet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198672040156-btq0pi8iiis0ib1ho2qlj9p3cbojiht5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nasrin.stylelet",
+            "certificate_hash": "f7e0d68b0c72dfe6ada12bda6e69588854c788d1"
+          }
+        },
+        {
+          "client_id": "198672040156-gliqs6ojee9kot79fssvsef4bkn29j8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsknIbm1Qivnw2WJTbxPj80delFpLSx6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198672040156-gliqs6ojee9kot79fssvsef4bkn29j8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
